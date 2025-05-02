@@ -23,7 +23,7 @@ Diffie-Hellman 密钥交换算法由 Whitfield Diffie 和 Martin Hellman 于 197
 
 ## 📁 文件说明
 
-- `diffie_hellman.py`：主程序，模拟 Alice 和 Bob 的密钥交换过程，输出生成的共享密钥。
+- `Diffie_Hellman.py`：主程序，模拟 Alice 和 Bob 的密钥交换过程，输出生成的共享密钥。
 
 ---
 
